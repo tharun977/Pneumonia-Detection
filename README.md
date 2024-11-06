@@ -21,7 +21,7 @@ This project uses FastAI and Django to create an API that accepts chest X-ray im
 Follow these steps to set up the project locally.
 
 ### 1. Clone the repository
-```bash
+
 git clone https://github.com/yourusername/pneumonia-detection-api.git
 cd pneumonia-detection-api
 2. Set up a virtual environment
