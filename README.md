@@ -1,6 +1,3 @@
-Here's a quick `README.md` for your pneumonia detection project. You can follow up later and update it as necessary:
-
-```markdown
 # Pneumonia Detection API
 
 This project provides a REST API for predicting pneumonia in chest X-ray images using a pre-trained model built with FastAI.
